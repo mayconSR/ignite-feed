@@ -22,6 +22,6 @@ O principal objetivo deste projeto é aprender e praticar os fundamentos do Reac
 - Clone o repositório para sua máquina local usando https://github.com/mayconSR/ignite-feed/
 - Navegue até a pasta do projeto via terminal e instale as dependências com o comando npm install
 - Para iniciar o projeto, use o comando npm run dev ou yarn dev (se estiver usando o yarn)
-- A aplicação será servida em http://localhost:5000
+- A aplicação será servida em http://localhost:5173
 
 Por favor, sinta-se à vontade para clonar, explorar e modificar este projeto conforme sua necessidade. Sugestões e contribuições são sempre bem-vindas!
