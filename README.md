@@ -4,16 +4,16 @@
 Este projeto é um feed simples, desenvolvido durante as aulas do curso Rocketseat, utilizando React com Vite. Foi criado como uma ferramenta de estudo para explorar os fundamentos do React. O projeto consiste em uma interface de usuário simples, sem funcionalidades de back-end.
 
 ## Tecnologias utilizadas
-React.js
-Vite
-CSS3
-HTML5
+- React.js
+- Vite
+- CSS3
+- HTML5
 
 ## Características do Projeto
-Feed de postagens simples com design limpo e intuitivo
-Utilização dos principais conceitos de React, como componentes, estado e props.
-Uso do Vite para um ambiente de desenvolvimento leve e rápido
-Escrito em JavaScript moderno (ES6+)
+- Feed de postagens simples com design limpo e intuitivo
+- Utilização dos principais conceitos de React, como componentes, estado e props.
+- Uso do Vite para um ambiente de desenvolvimento leve e rápido
+
 
 ## Objetivo
 O principal objetivo deste projeto é aprender e praticar os fundamentos do React. 
